@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi there, I'm Romeo Mulia Pratama 👋
 
-<!--
-**Romeoprtma/Romeoprtma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a web developer passionate about building scalable and efficient applications. I specialize in both frontend and backend development using a variety of modern technologies.
 
-Here are some ideas to get you started:
+🔭 Currently working with:
+- Backend: **Go (Golang), Laravel, Python**
+- Frontend: **HTML, CSS, JavaScript, React**
+  
+🌱 Always learning and exploring new technologies to improve my skills and deliver the best solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 You can reach me at: romeomuliap@gmail.com | linkedin.com/in/romeo-mulia-pratama-618723243
+
+Let's build something amazing together!
+
+------------------------------------------------------------------------------------------
+
+## Halo, saya Romeo Mulia Pratama. 👋
+
+Saya adalah seorang web developer yang memiliki passion dalam membangun aplikasi yang efisien dan scalable. Saya berfokus pada pengembangan baik di sisi frontend maupun backend dengan berbagai teknologi modern.
+
+🔭 Saat ini bekerja dengan:
+- Backend: **Go (Golang), Laravel, Python**
+- Frontend: **HTML, CSS, JavaScript**
+
+🌱 Selalu belajar dan menjelajahi teknologi baru untuk meningkatkan keterampilan dan memberikan solusi terbaik.
+
+📫 Kamu bisa menghubungi saya di: romeomuliap@gmail.com | linkedin.com/in/romeo-mulia-pratama-618723243
+
+Ayo kita buat sesuatu yang luar biasa bersama!
